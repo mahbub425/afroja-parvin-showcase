@@ -119,6 +119,7 @@ All colors MUST be HSL. Modern purple/violet and cyan color palette.
     --sidebar-accent-foreground: 210 20% 98%;
     --sidebar-border: 215 28% 17%;
     --sidebar-ring: 262 83% 58%;
+  }
 }
 
 @layer base {

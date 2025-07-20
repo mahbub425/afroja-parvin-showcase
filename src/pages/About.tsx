@@ -95,28 +95,25 @@ const About = () => {
               </h1>
               <div className="prose prose-lg text-muted-foreground leading-relaxed">
                 <p className="mb-6">
-                  Based in Dhaka, Bangladesh, I am a dedicated professional with expertise in 
-                  data analysis, product management, and programming. My journey spans across 
-                  Python, R, and C programming languages, with a strong foundation in statistical 
-                  analysis and product strategy.
+                 Hi, I’m Afroja Parvin, currently working as a Junior Product Analyst at BD Jobs. I have an academic background in Statistics and a strong passion for using data to solve problems and improve product experiences.
                 </p>
                 <p className="mb-6">
-                  With a passion for continuous learning and problem-solving, I have contributed 
-                  to various social initiatives and career development programs. My experience 
-                  showcases leadership skills, effective communication, and a growth mindset 
-                  that drives me to excel in every endeavor.
+                  I specialize in data-driven decision-making, product analysis, and project planning. At BD Jobs, I work with cross-functional teams to analyze user data, test new features, and help shape product strategies. I'm skilled in tools like Excel, Python, and R, and constantly seek opportunities to learn and grow.
                 </p>
                 <p>
-                  I believe in the power of data-driven decision making and am committed to 
-                  creating meaningful impact through technology and strategic thinking.
+                  With a growth mindset and a strong analytical approach, I aim to create meaningful impact through smart, insight-driven solutions.
                 </p>
               </div>
             </div>
             <div className="order-1 lg:order-2 animate-scale-in">
               <div className="relative">
                 <div className="w-80 h-80 mx-auto bg-gradient-card rounded-2xl shadow-strong p-8 flex items-center justify-center">
-                  <div className="w-64 h-64 bg-primary/20 rounded-full flex items-center justify-center">
-                    <div className="text-6xl font-bold text-primary">AP</div>
+                  <div className="w-64 h-64 bg-primary/20 rounded-full flex items-center justify-center overflow-hidden">
+                    <img 
+                      src="https://i.ibb.co/ynSn8Mxw/download-1.jpg" 
+                      alt="Afroja Parvin" 
+                      className="w-full h-full object-cover rounded-full border-4 border-primary shadow-lg" 
+                    />
                   </div>
                 </div>
               </div>
